@@ -1,0 +1,27 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Inter:wght@400;500&display=swap');
+
+  :root{
+    --base-font:'Be Vietnam Pro', sans-serif;
+    --color-orange:
+  }
+
+*{
+box-sizing:border-box;
+}
+html,body{
+width:100%;
+height:100%;
+font-family:var(--base-font);
+}
+.none{
+display:none;
+}
+a{
+text-decoration:none;
+}
+.container{
+max-width:1470px;
+margin:0 auto;
+padding:0 15px;
+}
