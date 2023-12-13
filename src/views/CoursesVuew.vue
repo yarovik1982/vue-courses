@@ -2,9 +2,9 @@
 
 </script>
 <template>
-    <h1>Home page</h1>
+    <h1>Courses Page</h1>
 </template>
-<style  scoped >
+<style scoped >
 h1{
     text-align: center;
 }

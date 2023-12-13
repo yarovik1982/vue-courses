@@ -27,17 +27,6 @@ import { menuData } from '../use/useMenu.js';
   align-items: center;
   margin-left: 50px;
 }
-/* .nav-list-item {
-  border-radius: 8px;
-  transition: all 0.3s linear;
-  -webkit-transition: all 0.3s linear;
-  -moz-transition: all 0.3s linear;
-  -ms-transition: all 0.3s linear;
-  -o-transition: all 0.3s linear;
-}
-.nav-list-item:hover {
-  background-color: #f1f1f3;
-} */
 .nav-list-item-link {
   padding: 0.7778em 1.333em;
   font-size: 18px;
@@ -46,6 +35,9 @@ import { menuData } from '../use/useMenu.js';
   text-transform:capitalize ;
 }
 .nav-list-item-link:hover {
+  background-color: #f1f1f3;
+}
+.nav-list-item-link.active{
   background-color: #f1f1f3;
 }
 </style>

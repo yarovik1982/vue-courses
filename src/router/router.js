@@ -6,26 +6,26 @@ const routes = [
       name:'home',
       component: () => import('../views/HomeView.vue')
    },
-   // {
-   //    path:'',
-   //    name:'',
-   //    component: () => import('')
-   // },
-   // {
-   //    path:'',
-   //    name:'',
-   //    component: () => import('')
-   // },
-   // {
-   //    path:'',
-   //    name:'',
-   //    component: () => import('')
-   // },
-   // {
-   //    path:'',
-   //    name:'',
-   //    component: () => import('')
-   // },
+   {
+      path:'/courses',
+      name:'courses',
+      component: () => import('../views/CoursesVuew.vue')
+   },
+   {
+      path:'/about',
+      name:'about',
+      component: () => import('../views/AboutView.vue')
+   },
+   {
+      path:'/pricing',
+      name:'pricing',
+      component: () => import('../views/PricingView.vue')
+   },
+   {
+      path:'/contact',
+      name:'contact',
+      component: () => import('../views/ContactView.vue')
+   },
 ]
 
 const router = createRouter({
