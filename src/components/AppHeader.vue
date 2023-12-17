@@ -17,11 +17,12 @@ import icon from '../assets/images/icons/Icon.png'
 </template>
 <style  scoped >
 .header {
-   padding: 20px;
+   /* padding: 20px; */
    margin-bottom: 100px;
 }
 .header-top-baner {
-   font-size: 18px;
+   font-size: 1.8rem;
+   /* font-size: 18px; */
    margin: 0 auto;
    width: 97%;
    /* padding: 0.777778em 0; */
@@ -41,8 +42,4 @@ import icon from '../assets/images/icons/Icon.png'
 .header-top-baner-text img{
    margin-left: 24px;
 }
-
-/* .nav-logo {
-} */
-
 </style>

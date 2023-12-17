@@ -1,8 +1,8 @@
 <script setup>
-
+import AppHero from '../components/sections/AppHero.vue';
 </script>
 <template>
-    <h1>Home page</h1>
+    <AppHero/>
 </template>
 <style  scoped >
 h1{
