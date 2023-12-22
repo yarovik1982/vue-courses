@@ -1,5 +1,5 @@
 <script setup>
-import AppSvg from "../UI/AppSvg.vue";
+// import AppSvg from ".././UI/AppSvg.vue";
 // import abstractLine from '../assets/images/icons/Abstract-Line.svg'
 </script>
 <template>
