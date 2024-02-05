@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as t}from"./index-nlvLFLT7.js";const o={};function a(n,r){return c(),t("h1",null,"Contact Page")}const s=e(o,[["render",a],["__scopeId","data-v-d822e603"]]);export{s as default};

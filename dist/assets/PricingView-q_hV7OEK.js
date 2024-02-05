@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as n}from"./index-nlvLFLT7.js";const r={};function o(t,a){return c(),n("h1",null,"Pricing Page")}const s=e(r,[["render",o],["__scopeId","data-v-074c83e9"]]);export{s as default};
